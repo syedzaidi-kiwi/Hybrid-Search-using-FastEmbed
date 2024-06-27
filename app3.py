@@ -15,8 +15,8 @@ from fastembed import SparseEmbedding, SparseTextEmbedding, TextEmbedding
 
 # Initialize Qdrant client
 qdrant_client = QdrantClient(
-    url="https://eb279fab-2b16-47ae-b9dd-dcc60fe30568.us-east4-0.gcp.cloud.qdrant.io:6333", 
-    api_key="b1u0gQkQffucfHc4CPKmWWGSnVGD7IQwns35KaSkFdt6xoqKBfQkUg",
+    url="XXX", 
+    api_key="XXX",
     timeout=120
 )
 
